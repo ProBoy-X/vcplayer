@@ -1,11 +1,12 @@
-<h1 align="centre">DAISYXMUSIC V5.0 🎵</h1>
+##       🎵🎵 Kᴀᴋᴀsʜɪ ᴍᴜsɪᴄ ʙᴏᴛ 🎵🎵
 
-### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+# A ᴠᴇʀʏ ᴄᴏɴᴠᴇɴɪᴇɴᴛ ʙᴏᴛ ᴛʜᴀᴛ ᴘʟᴀʏ ᴍᴜsɪᴄ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴀɴᴅ ᴄʜᴀɴɴᴇʟs ɪɴ Tᴇʟᴇɢʀᴀᴍ..😉
 
+## Pᴏᴡᴇʀᴇᴅ ʙʏ:- [Jᴀss ᴍᴀɴᴀᴋ](https://github.com/Jassmanak1125)
+
+### Aᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs:- [🥀🥀Jᴀss ᴠᴄ ᴘʟᴀʏᴇʀ🥀🥀](https://t.me/@ll_VC_PLAYER_ll_Bot)
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/baef8138d2ee354bb33fe.mp4"
 </p>
 
 <h2> Features 🔥 </h2>
@@ -26,7 +27,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ProBoy-X/vcplayer)
 
 Get pyrogram (p)  `SESSION` from here:
 
